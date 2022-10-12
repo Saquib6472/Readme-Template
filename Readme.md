@@ -105,7 +105,7 @@ hasnat1568@gmail.com
 [websitelink]:(hasnat1568@gmail.com)
 
 ### image syntax
-<img src ="./images/0G9A6335.JPG" width="200"
+<img src ="./images/0G9A6335.jpg" width="200"
 tittle="profile image"/>
 
 
